@@ -1,0 +1,38 @@
+[{
+    "id": "1",
+    "title": "Острый бургер",
+    "price": "26",
+    "image":"images/goods/img (1).png"
+},
+{
+    "id": "1",
+    "title": "Гриль бургер",
+    "price": "16",
+    "image":"images/goods/img (2).png"
+},
+{
+    "id": "1",
+    "title": "Гигант бургер",
+    "price": "37",
+    "image":"images/goods/img (3).png"
+},
+{
+    "id": "1",
+    "title": "Бургер с курицей",
+    "price": "18",
+    "image":"images/goods/img (4).png"
+},
+{
+    "id": "1",
+    "title": "Тибон бургер",
+    "price": "26",
+    "image":"images/goods/img.jpg"
+},
+{
+    "id": "1",
+    "title": "Тройной бургер",
+    "price": "26",
+    "image":"images/goods/img.png"
+}
+
+]
